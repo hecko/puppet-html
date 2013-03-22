@@ -1,6 +1,8 @@
 require 'puppet'
 require 'yaml'
 
+Puppet.debug "Loading HTML report module"
+
 Puppet::Reports.register_report(:html) do
 
   desc <<-DESC
