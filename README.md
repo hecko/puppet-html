@@ -29,11 +29,11 @@ Installation & Usage
 
 3.  Run the Puppet client and sync the report as a plugin
 
-Author
+Authors
 ------
 
-James Turnbull <james@lovedthanlost.net>
-Marcel Hecko <maco@blava.net>
+* James Turnbull <james@lovedthanlost.net>
+* Marcel Hecko <maco@blava.net>
 
 License
 -------
