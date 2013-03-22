@@ -14,8 +14,10 @@ Requirements
 Installation & Usage
 --------------------
 
-1.  Install puppet-twitter as a module in your Puppet master's module
-    path.
+1.  Install puppet-html as a module in your Puppet master's module path.
+
+        cd /etc/puppet/modules
+        git clone https://github.com/hecko/puppet-html
 
 2.  Enable pluginsync and reports on your master and clients in `puppet.conf`
 
